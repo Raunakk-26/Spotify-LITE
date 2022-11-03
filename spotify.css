@@ -1,0 +1,162 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: Helvetica;
+    margin: 0px;
+}
+a{
+    text-decoration: none;
+}
+p{
+    font-size: 10px;
+    padding-left: 7px;
+    color: rgb(194, 184, 184);
+}
+h3{
+    padding-left: 7px;
+    font-size: 13.5px;
+}
+/* footer */
+.footer{
+    background-color: rgb(17, 16, 16);
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    border: 1px solid rgb(28, 28, 28);
+}
+.left{
+    line-height: 0%;
+    width: 506px;
+    left: 0%;
+}
+.left h3{
+    margin: 10px 0px;
+}
+.left img{
+    padding-left: 20px;
+}
+.mid{
+    padding: 0px;
+    width: 506px;
+}
+.right img{
+    padding-left: 6px;
+}
+.right{
+    text-align: right;
+    width: 506px;
+}
+.right td{
+    text-align: right;
+}
+.mid td{
+    padding: 12px;
+    
+}
+.home{
+    width: 280px;
+}
+.imp{
+    margin: 20px 20px 0px 20px;
+}
+.main{
+    width: 950px;
+    background-color: rgb(17, 16, 16);
+    height: 4000px;
+}
+.friends{
+    width: 285px;
+}
+a:visited{
+    color: white;
+}
+a:hover h3{
+    font-size: 14px;
+    text-decoration: underline;
+}
+a:hover p{
+    font-size: 11px;
+    text-decoration: underline;
+}
+.left img:hover{
+    width: 23px;
+}
+.mid img:hover{
+    width: 23px;
+}
+.right img:hover{
+    width: 23px;
+}
+.imp img{
+    position: fixed;
+    top: 0px;
+}
+.imp td{
+    position: fixed;
+    top: 0px;
+    width: 200px;
+}
+.imp{
+    position: fixed;
+    top: 250px;
+    border-bottom: 0.5px solid rgb(36, 36, 36);
+    width: 240px;
+}
+.imp a:hover{
+    font-size: 16.3px;
+    text-decoration: underline;
+}
+.friends td{
+    position: fixed;
+    top: 0px;
+    width: 200px;
+}
+.friend{
+    position: fixed;
+    top: 0px;
+    width: 200px;
+}
+.close{
+    position: fixed;
+    top: 0%;
+    background-color: rgb(35, 34, 34);
+    width: px;
+    height: 63px;
+}
+.mai{
+    background-color: red;
+    width: 20px;
+    height: 20px;
+    margin: 10px;
+}
+.ma{
+    width: 946px;
+}
+.btn{
+    border-radius: 20px;
+    background-color: transparent;
+    color: white;
+    border-color: white;
+}
+.btn2{
+    height: 27px;
+    border-radius: 50px;
+    background-color: transparent;
+    color: white;
+    border-color: rgb(80, 78, 78);
+}
+.btn:hover{
+    color: black;
+    background-color: white;
+}
+.qq{
+    background-color: transparent;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    margin: 12px 0px 0px 20px;
+}
+.qq:hover{
+
+    background-color: rgb(24, 22, 22);
+}
